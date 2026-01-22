@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # General Coding Standards
 
 

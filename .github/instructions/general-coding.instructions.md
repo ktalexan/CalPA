@@ -1,3 +1,6 @@
+---
+applyTo: "**"
+---
 # General Coding Standards
 
 
@@ -39,7 +42,7 @@
 - Always include Args, Returns, Raises, and Examples sections in docstrings
 - Try to keep docstrings concise and informative
 
-## Python code style and naming conventions
+## Python code style
 
 - Use snake_case for Python variables, functions, modules, dictionaries, pandas data frames, numpy, arrays, and methods
 - Use PascalCase for Python classes or class names, components, and exceptions
